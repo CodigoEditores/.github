@@ -1,12 +1,26 @@
-## Hi there 👋
+<p align="center">
+	<h1 align="center">EditoresLand 👋</h1>
+</p>
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+![EditoresLand STARS](https://img.shields.io/github/stars/EditoresLand/.github?style=social)
+![EditoresLand License](https://img.shields.io/github/license/EditoresLand/.github)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+## 🤔 Que es esto? 
+
+Documentación, configuraciones, tutoriales, recursos para tus editores de código favoritos
+
+## ©️ Copyright y Autores
+
+**Licencia:** MIT
+
+Revisa el Archivo de [Licencia](https://github.com/EditoresLand/.github/blob/main/LICENSE)
+
+Los autores de este proyecto están en la organización o con sus respectivos créditos en cada archivo o página
+
+---
+
+Hecho con :heart: en :earth_americas:
