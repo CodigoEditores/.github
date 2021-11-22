@@ -9,7 +9,7 @@
 
 </div>
 
-## 🤔 Que es esto? 
+## 🤔 Que es esto?
 
 Documentación, configuraciones, tutoriales, recursos para tus editores de código favoritos
 
@@ -21,6 +21,6 @@ Revisa el Archivo de [Licencia](https://github.com/EditoresLand/.github/blob/mai
 
 Los autores de este proyecto están en la organización o con sus respectivos créditos en cada archivo o página
 
----
+______________________________________________________________________
 
 Hecho con :heart: en :earth_americas:
